@@ -9,6 +9,12 @@
 			"email": "hello@vinkla.com"
 		}
 	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/borantula/Instagram-PHP-API"
+		}
+	],
 	"require": {
 		"php": ">=5.4.7",
 		"illuminate/contracts": "~5.0",
