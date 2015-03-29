@@ -12,7 +12,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/borantula/Instagram-PHP-API"
+			"url": "https://github.com/borantula/Instagram-PHP-API.git"
 		}
 	],
 	"require": {
@@ -20,7 +20,7 @@
 		"illuminate/contracts": "~5.0",
 		"illuminate/support": "~5.0",
 		"graham-campbell/manager": "~2.0",
-		"cosenary/instagram": "dev-fork"
+		"cosenary/instagram": "dev-master"
 	},
 	"require-dev": {
 		"graham-campbell/testbench": "~2.0"
