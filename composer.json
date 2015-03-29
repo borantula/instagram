@@ -20,7 +20,7 @@
 		"illuminate/contracts": "~5.0",
 		"illuminate/support": "~5.0",
 		"graham-campbell/manager": "~2.0",
-		"cosenary/instagram": "~2.0"
+		"cosenary/instagram": "dev-fork"
 	},
 	"require-dev": {
 		"graham-campbell/testbench": "~2.0"
